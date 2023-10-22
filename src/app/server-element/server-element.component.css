@@ -1,0 +1,13 @@
+
+.panel-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.panel-heading{
+  padding:10px 0px;
+  background-color: rgb(210, 210, 210);
+    display: flex;
+    justify-content: center;
+  }
+

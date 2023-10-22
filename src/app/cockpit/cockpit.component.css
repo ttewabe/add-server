@@ -1,0 +1,20 @@
+
+.col-xs-12{
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2, label{
+  margin:5px 5px;
+}
+.btn-success{
+  margin:10px 10px;
+  background-color: blueviolet;
+  color: aliceblue;
+}
+.btn-primary{
+  margin:10px 10px;
+  background-color: rgb(5, 15, 104);
+  color: aliceblue;
+}
